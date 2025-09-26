@@ -1,0 +1,9 @@
+export * as drugs from './drugs.js';
+export * as allergies from './allergies.js';
+export * as specializations from './specializations.js';
+export * as profiles from './profiles.js';
+export * as patients from './patients.js';
+export * as doctors from './doctors.js';
+export * as medicalHistory from './medical-history.js';
+export * as prescriptions from './prescriptions.js';
+export * as reminders from './reminders.js';
